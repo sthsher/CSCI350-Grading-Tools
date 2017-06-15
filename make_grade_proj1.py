@@ -24,6 +24,7 @@ with open(CSV_FILENAME) as infile:
 		NAME = line[7:-1]
 		PATH = line[:-1]
 		try:
+			shell('chmod +x make-grade', '../submissions_proj1/' + PATH + '/proj1/src/tests')
 			shell('make grade', '../submissions_proj1/' + PATH + '/proj1/src/threads')
 			shell('touch GRADE_' + NAME, '../submissions_proj1/GRADE/')
 			writefile = open('../submissions_proj1/GRADE/GRADE_' + NAME, 'w');
