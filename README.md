@@ -7,15 +7,7 @@ If you are not a member of the CSCI 350 teaching team (student, or just someone 
 
 ## Documents
 
-In the *documents* directory, you will find the following files:
-
-1. DesignDoc_Answers: These are the answers and grading guide for the designdoc questions. It is encrypted with a password, please ask a fewllow CP, TA, or the professor for the password.
-
-2. Pintos Guide: This a guide for the students to help them with the projects. This is NOT an official guide, just something I wrote for fun.
-
-3. Simple Guide to C: For students who have never written in C before, this is a good starting guide for students who are familiar with C++ but not C.
-
-4. Sublime_Tutorial: Sublime is a great text editor for Pintos, especially with its file navigation right from the keyboard. I highly recommend this text editor, especially since it's already installed in the VM environment.
+In the *documents* directory, you will find some guides to give to the students as well as the designdoc answers.
 
 ## Forms
 
