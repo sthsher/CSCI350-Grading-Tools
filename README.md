@@ -17,6 +17,20 @@ In the *documents* directory, you will find the following files:
 
 4. Sublime_Tutorial: Sublime is a great text editor for Pintos, especially with its file navigation right from the keyboard. I highly recommend this text editor, especially since it's already installed in the VM environment.
 
+## Forms
+
+CSCI 350 students will need to fill out 2 forms:
+
+1. Partner Signup Form: If the professor is allowing partners, they will need to fill out this form in order to get a partner repo.
+
+2. Late Day Form: When a student uses a late day(s), they will need to fill this form in order to notify the grader which commit they want to be graded.
+
+Since these forms were done through google docs, I will link the forms used below for your reference to create your own google form. Please note that you can only access these forms via your USC gmail account:
+
+1. Partner Signup Form: https://goo.gl/forms/jGvsND868BLYoqCp2
+
+2. Late Day Form: https://goo.gl/forms/85QhkF94NNR60iwC3
+
 ## Scripts
 
 ### Prerequisites

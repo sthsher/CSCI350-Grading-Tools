@@ -8,7 +8,7 @@ CSV_FILENAME = sys.argv[1]
 def hint(text, color='34'):
 	return '\t\033[{}m{}\033[0m'.format(color, text)
 
-def shell(command, cwd=None):
+def shell(command, cwd=None):w
 	if cwd is None:
 		print hint('/: ' + command)
 	else:
