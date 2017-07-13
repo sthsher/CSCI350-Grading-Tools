@@ -31,6 +31,10 @@ Since these forms were done through google docs, I will link the forms used belo
 
 2. Late Day Form: https://goo.gl/forms/85QhkF94NNR60iwC3
 
+## Presentations
+
+For each project, there will be a powerpoint presentation as an introduction to the project. You can find the powerpoints I used in the "presentations" directory.
+
 ## Scripts
 
 ### Prerequisites

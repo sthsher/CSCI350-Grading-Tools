@@ -1,0 +1,40 @@
+Hi All,
+
+Here are the resources you'll need for project 1:
+
+Project 1 slides: These are the slides presented in lecture.
+Simple guide to C: If you're unfamiliar with C, here's a simple guide to get started with.
+Stanford Website: The official documentation to Pintos.
+Pintos Guide: This is an ongoing documentation in addition to the Stanford website.
+Piazza: You're here already. Ask away!
+pintos-base repository: Make sure that you clone this to the desktop and copy the contents into your private repo, DO NOT clone the repo into your repo.
+Tests to pass for project 1:
+------------------------------------------------------------
+Part 1 - Alarm
+------------------------------------------------------------
+pintos -v -k -T 60 –bochs -- -q run alarm-single
+pintos -v -k -T 60 –bochs -- -q run alarm-multiple
+pintos -v -k -T 60 –bochs -- -q run alarm-simultaneous
+pintos -v -k -T 60 –bochs -- -q run alarm-zero
+pintos -v -k -T 60 –bochs -- -q run alarm-negative
+------------------------------------------------------------
+Part 2 - Priority Donation
+------------------------------------------------------------
+pintos -v -k -T 60 –bochs -- -q run alarm-priority
+pintos -v -k -T 60 –bochs -- -q run priority-change
+pintos -v -k -T 60 –bochs -- -q run priority-donate-one
+pintos -v -k -T 60 –bochs -- -q run priority-donate-multiple
+pintos -v -k -T 60 –bochs -- -q run priority-donate-multiple2
+pintos -v -k -T 60 –bochs -- -q run priority-donate-nest
+pintos -v -k -T 60 –bochs -- -q run priority-donate-sema
+pintos -v -k -T 60 –bochs -- -q run priority-donate-lower
+pintos -v -k -T 60 –bochs -- -q run priority-fifo
+pintos -v -k -T 60 –bochs -- -q run priority-preempt
+pintos -v -k -T 60 –bochs -- -q run priority-sema
+pintos -v -k -T 60 –bochs -- -q run priority-condvar
+pintos -v -k -T 60 –bochs -- -q run priority-donate-chain
+All the files can be found in the resources section as well.
+
+Happy coding!
+
+--Stephen
