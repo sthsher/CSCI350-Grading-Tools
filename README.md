@@ -46,7 +46,7 @@ Each student's repo must be organized in a specific manner:
 1. Each project must be named "*proj\<i\>*" in the root directory (eg. "proj2")
 2. The designdoc must be named "DESIGNDOC" and placed under each respective project's main source directory. For example for project 2, the designdoc must be named "DESIGNDOC" and placed under "proj2/src/userprog/".
 
-You'll also need to have a csv file ready with all the student's repo names. The format is simply the repo name (eg. pintos-ttrojan) on each line. Please make sure to include an empty line at the end of the file, otherwise the last line will be omitted from the script.
+You'll also need to have a csv file ready with all the student's repo names. The format is simply the repo name (eg. pintos-ttrojan) on each line. **Please make sure to include an empty line at the end of the file, otherwise the last line will be omitted from the script**.
 
 #### Python Packages
 
@@ -56,7 +56,6 @@ Make sure you have the relevant python packages installed:
 $ sudo apt-get update
 $ sudo apt-get install python-pip
 $ pip install requests
-
 ```
 
 ### designdoc Script
